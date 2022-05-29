@@ -30,20 +30,21 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @EverseenMoviesofficial
 
-👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
+🧑🏻‍💻 **Editing:** @EverseenMoviesofficial
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+👥 **Any Doubt Support group:** [EverseenMovies Group](https://t.me/Everseen_Movies)
+
+📢 **Join My update channel:** [EverseenMovies Channel](http://t.me/+LFS3S9RT-_4zNWFl)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @EverseenMoviesofficial
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
+💲**Donate Now:** @EverseenMoviesofficial
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+📌Contact Admin© @EverseenMoviesofficial
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
