@@ -46,6 +46,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
         await bot.send_message(
             chat_id=cmd.from_user.id,
             text="**Please Join My Updates Channel to use this Bot!**\n\n"
+                 "**telegram-ல் புதிய திரைப்படங்களை பதிவிறக்கம் செய்ய இந்த Update சேனலில் சேர வேண்டும் ...!**\n\n"
                  "Due to Overload, Only Channel Subscribers can use the Bot!",
             reply_markup=InlineKeyboardMarkup(
                 [
