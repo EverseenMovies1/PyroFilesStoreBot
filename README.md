@@ -44,6 +44,9 @@ Download Latest Movies
 - `BANNED_CHAT_IDS` - All Banned Channel IDs *(Optional)*
 	- Put all banned channel IDs & Separate with space.
 
+### Deploy Now:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EverseenMovies1/PyroFilesStoreBot)
+
 
 ## Commands:
 ```
