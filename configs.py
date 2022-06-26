@@ -36,7 +36,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 👥 **Any Doubt Support group:** [EverseenMovies Group](https://t.me/Everseen_Movies)
 
-📢 **Join My update channel:** [EverseenMovies Channel](http://t.me/+LFS3S9RT-_4zNWFl)
+📢 **Join My update channel:** [EverseenMovies Channel](https://t.me/+7c2DCEfWueAyMWU1)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @EverseenMoviesofficial
@@ -47,7 +47,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 """
 	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+Hi, [{}](tg://user?id={})\n\n**Welcome** This is Permanent **File Store Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+Send me any file I will give you a permanent Sharable Link bot. I Support Channel Also! Check **About Bot** Button.
 """
