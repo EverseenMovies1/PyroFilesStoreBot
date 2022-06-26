@@ -74,7 +74,7 @@ async def start(bot: Client, cmd: Message):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/Everseen_Movies"),
-                        InlineKeyboardButton("Bots Channel", url="http://t.me/+LFS3S9RT-_4zNWFl")
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/+7c2DCEfWueAyMWU1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -351,7 +351,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/Everseen_Movies"),
-                        InlineKeyboardButton("Bots Channel", url="http://t.me/+LFS3S9RT-_4zNWFl")
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/+7c2DCEfWueAyMWU1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -409,7 +409,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Support Group", url="https://t.me/Everseen_Movies"),
-                        InlineKeyboardButton("Bots Channel", url="http://t.me/+LFS3S9RT-_4zNWFl")
+                        InlineKeyboardButton("Bots Channel", url="https://t.me/+7c2DCEfWueAyMWU1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
