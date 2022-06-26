@@ -12,7 +12,7 @@ async def reply_forward(message: Message, file_id: int):
     try:
         await message.reply_text(
             f"**💞Thanks for Using My Bot**\n\n"
-            f"__**Uploaded By** : https://t.me/+7c2DCEfWueAyMWU1**__\n\n"
+            f"__Uploaded By : t.me/+7c2DCEfWueAyMWU1**__\n\n"
             f"__🤗It's Permanent Video File.Enjoy your day🤗__",
             disable_web_page_preview=True, quote=True)
     except FloodWait as e:
