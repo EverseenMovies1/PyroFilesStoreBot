@@ -7,10 +7,10 @@ This is Telegram Parmanent Files Store Bot by [@EverseenMoviesv2]
 # Join Our Telegram Channel
 Download Latest Movies
 
-<a href="https://telegram.me/+LFS3S9RT-_4zNWFl"><img src="https://img.shields.io/chocolatey/dt/git?label=EverseenMovies&logo=telegram&style=for-the-badge"></a>
+<a href="http://t.me/+7c2DCEfWueAyMWU1"><img src="https://img.shields.io/chocolatey/dt/git?label=EverseenMovies&logo=telegram&style=for-the-badge"></a>
 
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/+LFS3S9RT-_4zNWFl) 
+[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/+7c2DCEfWueAyMWU1) 
 
 
 ### Features:
